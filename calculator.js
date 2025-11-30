@@ -25,3 +25,6 @@ const calculate = function(a, b, operation) {
 	}
 }
 
+console.log(calculate(6, 7, "+"));
+console.log(calculate(727, 7, "/"));
+console.log(calculate(9, 4, "%"));
